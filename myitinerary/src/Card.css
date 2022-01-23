@@ -1,0 +1,48 @@
+.card:hover{
+    box-shadow: 10px 15px 25px 2px rgba(57, 14, 250, 0.27) !important;   
+}
+.card-body{
+    padding: 2rem 0 !important;
+}
+
+.card-text{
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+}
+/*.overflow{
+    overflow: hidden;
+}
+
+.card-img-top{ 
+    transition: all 0.2s ease-in-out;
+    overflow: hidden;  
+}
+
+.card-img-top:hover{
+    transform: scale(1.8);
+    z-index: 1000;
+}*/
+
+.card-img-overlay{
+    cursor:pointer
+}
+
+.card{
+    cursor:pointer
+}
+
+.card {
+    max-height: 400px;
+    overflow: hidden;     
+}
+
+
+
+.tarjetas {
+    margin-top: 20px;
+}
+
+.card-img {height: 200px;
+}
+
+footer{margin-top: 20px;}
