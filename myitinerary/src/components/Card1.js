@@ -9,7 +9,7 @@ function Card1({title,pais,image,text,url}) {
     <img src={image} className="card-img" alt="..."/>
     <div className="card-body text-light">
       <h5 className="card-title">{title}</h5>
-      <p className="card-text text-primary">{pais}</p>
+      <p id='cities-pais' className="card-text text-primary">{pais}</p>
       <LinkRouter  to='/' className="btn btn-outline-light"> leer mas...</LinkRouter>  
 
     

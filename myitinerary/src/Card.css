@@ -8,7 +8,17 @@
 .card-text{
     padding: 0.3rem 1rem;
     font-size: 1rem;
+   
+    
+   
 }
+
+.cities-pais {
+    background-color: blue;
+}
+
+
+
 /*.overflow{
     overflow: hidden;
 }

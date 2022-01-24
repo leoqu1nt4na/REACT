@@ -5,6 +5,7 @@ import avion from '../Images/avion.jpg'
 import user6 from '../Images/user6.png'
 //import {Link} from 'react-router-dom';
 import Login from './Login'
+import '../Cities.css'
 
 
 function Navbar() {
